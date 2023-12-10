@@ -7,7 +7,7 @@ Valet vehicles (cars, etc.) are the most broken (they can kill you and behave st
 
 _Valet:_
 - Whiplash
-  1. cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_HighTower.Valet_SportsCar_Vehicle_HighTower_C **(Versions: 14.10 - 14.60)**
-  2. cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_Turbo.Valet_SportsCar_Vehicle_Turbo_C
+  1. **Mark 51: (Versions: 14.10 - 14.60)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_HighTower.Valet_SportsCar_Vehicle_HighTower_C
+  2. **Whiplash Super Circut: (Versions: 14.00 - Latest)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_Turbo.Valet_SportsCar_Vehicle_Turbo_C
   3. cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_Upgrade.Valet_SportsCar_Vehicle_Upgrade_C
   4. cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle.Valet_SportsCar_Vehicle_C
