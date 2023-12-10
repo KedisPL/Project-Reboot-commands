@@ -2,7 +2,7 @@
 To use commands press F2 in game.
 Some vehicles do not work or do not work properly.
 Vehicles after about version 12.61 are little bit broken.
-Vehicles after about version 12.61 are the most spoiled (they can kill you and behave strangely after exiting the vehicle, in versions 17.00+ more vehicles eject the player from them after a few seconds).
+Vehicles after about version 12.61 are the most spoiled (they can kill you and behave strangely after exiting the vehicle, in versions 16.40+ more vehicles eject the player from them after a few seconds).
 
 **1. Vehicles:**
 
@@ -56,6 +56,7 @@ _Plugin: Valet:_
   - **Prevalent: (Versions: 13.40 - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
 
 - Taxi (Codename: Taxi Cab)
+  - **Taxi (Rusted): (Versions: ? - Latest)** cheat summon /Valet/TaxiCab/Valet_TaxiCab_Vehicle_Rusted.Valet_TaxiCab_Vehicle_Rusted_C
   - **Taxi: (Versions: 13.40 - Latest)** cheat summon /Valet/TaxiCab/Valet_TaxiCab_Vehicle.Valet_TaxiCab_Vehicle_C
  
 - Whiplash (Codename: Sports Car)
