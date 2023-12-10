@@ -15,6 +15,33 @@ _Folder: DriveableVehicles:_
  
 - Quadcrasher (Codename: Antelope)
   - **Quadcrasher: (Versions: 6.10 - ?)** cheat summon /Game/Athena/DrivableVehicles/AntelopeVehicle.AntelopeVehicle_C
+ 
+- Mounted Turret
+  - **Mounted Turret: (Versions: 6.30 - ?)** cheat summon /Game/Athena/DrivableVehicles/MountedTurret.MountedTurret_C
+  - **Mounted Turret (Save The World version): (Versions: ?)** cheat summon /Game/Athena/DrivableVehicles/MountedTurret_STW.MountedTurret_STW_C
+
+- X4 Stormwing (Codename: Biplane, Ferret)
+  - **X4 Stormwing: (Versions: 7.00 - Latest)** cheat summon /Game/Athena/DrivableVehicles/Biplane/Blueprints/FerretVehicle.FerretVehicle_C
+  - **X4 Stormwing (Winter version): (Versions: 7.00 - Latest)** cheat summon /Game/Athena/DrivableVehicles/Biplane/Blueprints/SantaBiplaneVehicle.SantaBiplaneVehicle_C
+
+- Driftboard (Codename: Jackal)
+  - **Driftboard: (Versions: 7.40 - Latest)** cheat summon /Game/Athena/DrivableVehicles/JackalVehicle_Athena.JackalVehicle_Athena_C
+
+- Surfboard
+  - **Surfboard: (Versions: ?)** cheat summon /Game/Athena/DrivableVehicles/SurfboardVehicle_Athena_Race.SurfboardVehicle_Athena_Race_C
+  - **Surfboard: (Versions: ?)** cheat summon /Game/Athena/DrivableVehicles/SurfboardVehicle_Athena.SurfboardVehicle_Athena_C
+
+- Cannon (Codename: Push Cannon)
+  - **Pirate Cannon: (Versions: 8.00 - Latest)** cheat summon /Game/Athena/DrivableVehicles/PushCannon.PushCannon_C
+
+- Baller (Codename: Octopus)
+  - **Baller: (Versions: 8.10 - Latest)** cheat summon /Game/Athena/DrivableVehicles/Octopus/OctopusVehicle.OctopusVehicle_C
+
+- B.R.U.T.E (Codename: Mech)
+  - **B.R.U.T.E: (Versions: 10.00 - ?)** cheat summon /Game/Athena/DrivableVehicles/Mech/TestMechVehicle.TestMechVehicle_C
+
+- Motorboat (Codename: Meatball)
+  - **Motorboat: (Versions: 11.00 - Latest)** cheat summon /Game/Athena/DrivableVehicles/Meatball/Meatball_Large/MeatballVehicle_L.MeatballVehicle_L_C
 
 _Plugin: Hoagie:_
 - Prevalent (Codename: Hoagie)
