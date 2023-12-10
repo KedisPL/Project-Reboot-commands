@@ -81,3 +81,7 @@ _Plugin: Valet:_
 _Plugin: Nevada_
   - Saucer (Codename: Nevada)
     - **Saucer: (Versions: 17.00 - Latest)** cheat summon /Nevada/Blueprints/Vehicle/Nevada_Vehicle_V2.Nevada_Vehicle_V2_C
+
+_Plugin: Foray_
+  - Ferrari 296 GTB (Codename: Foray)
+    - **Ferrari 296 GTB: (Versions: 17.20 - ?)** cheat summon /Nevada/Blueprints/Vehicle/Nevada_Vehicle_V2.Nevada_Vehicle_V2_C
