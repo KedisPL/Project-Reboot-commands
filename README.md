@@ -86,4 +86,4 @@ _Plugin: Nevada_
 
 _Plugin: Foray_
   - Ferrari 296 GTB (Codename: Foray)
-    - **Ferrari 296 GTB: (Versions: 17.20 - ?)** cheat summon /Foray/Vehicle/Foray_Vehicle.Foray_Vehicle_C
+    - **Ferrari 296 GTB: (Versions: 17.20 - 17.50)** cheat summon /Foray/Vehicle/Foray_Vehicle.Foray_Vehicle_C
