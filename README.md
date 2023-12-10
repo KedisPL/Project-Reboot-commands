@@ -2,13 +2,19 @@
 To use commands press F2 in game.
 Some vehicles do not work or do not work properly.
 Vehicles after about version 12.61 are little bit broken.
-Vehicles after about version 12.61 are the most spoiled (they can kill you and behave strangely after exiting the vehicle, in versions 17.00+ some vehicles eject the player from them after a few seconds).
+Vehicles after about version 12.61 are the most spoiled (they can kill you and behave strangely after exiting the vehicle, in versions 17.00+ more vehicles eject the player from them after a few seconds).
 
 **1. Vehicles:**
 
-_Folder: DrivableVehicles:_
-- ATK (Codename Golf Cart)
+_Folder: DriveableVehicles:_
+- Shopping Cart
+  - **Shopping Cart: (Versions: 4.30 - ?)** cheat summon /Game/Athena/DrivableVehicles/ShoppingCartVehicleSK.ShoppingCartVehicleSK_C
+ 
+- ATK (Codename: Golf Cart)
   - **All Terrain Kart (ATK): (Versions: 5.00 - ?)** cheat summon /Game/Athena/DrivableVehicles/Golf_Cart/Golf_Cart_Base/Blueprints/GolfCartVehicleSK.GolfCartVehicleSK_C
+ 
+- Quadcrasher (Codename: Antelope)
+  - **Quadcrasher: (Versions: 6.10 - ?)** cheat summon /Game/Athena/DrivableVehicles/AntelopeVehicle.AntelopeVehicle_C
 
 _Plugin: Hoagie:_
 - Prevalent (Codename: Hoagie)
