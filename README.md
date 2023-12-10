@@ -51,6 +51,7 @@ _Plugin: Valet:_
 - Prevalent (Codename: Basic Car)
   - **Prevalent GG2020: (Versions: 14.10 - ?)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_HighTower_CEO.Valet_BasicCar_Vehicle_HighTower_CEO_C
   - **Prevalent GG2020: (Versions: 14.10 - ?)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_HighTower.Valet_BasicCar_Vehicle_HighTower_C
+  - **Prevalent GG2020: (Versions: 17.00 - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_IO.Valet_BasicCar_Vehicle_IO_C
   - **Prevalent (Rusted): (Versions: ? - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_Rusted.Valet_BasicCar_Vehicle_Rusted_C
   - **Prevalent GG2020: (Versions: 13.40 - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_Upgrade.Valet_BasicCar_Vehicle_Upgrade_C
   - **Prevalent: (Versions: 13.40 - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
@@ -76,3 +77,7 @@ _Plugin: Valet:_
   - **Mudflap (Rusted): (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_Rusted.Valet_BigRig_Vehicle_Rusted_C
   - **Mudflap OP-Max: (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_Upgrade.Valet_BigRig_Vehicle_Upgrade_C
   - **Mudflap: (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle.Valet_BigRig_Vehicle_C
+
+_Plugin: Nevada_
+  - Saucer (Codename: Nevada)
+    - **Saucer: (Versions: 17.00 - Latest)** cheat summon /Nevada/Blueprints/Vehicle/Nevada_Vehicle_V2.Nevada_Vehicle_V2_C
