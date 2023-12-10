@@ -51,7 +51,7 @@ _Plugin: Valet:_
 - Prevalent (Codename: Basic Car)
   - **Prevalent GG2020: (Versions: 14.10 - ?)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_HighTower_CEO.Valet_BasicCar_Vehicle_HighTower_CEO_C
   - **Prevalent GG2020: (Versions: 14.10 - ?)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_HighTower.Valet_BasicCar_Vehicle_HighTower_C
-  - **Prevalent GG2020: (Versions: 17.00 - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_IO.Valet_BasicCar_Vehicle_IO_C
+  - **Prevalent GG2020 (Imagined Order): (Versions: 17.00 - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_IO.Valet_BasicCar_Vehicle_IO_C
   - **Prevalent (Rusted): (Versions: ? - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_Rusted.Valet_BasicCar_Vehicle_Rusted_C
   - **Prevalent GG2020: (Versions: 13.40 - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_Upgrade.Valet_BasicCar_Vehicle_Upgrade_C
   - **Prevalent: (Versions: 13.40 - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
@@ -74,9 +74,11 @@ _Plugin: Valet:_
  
 - Mudflap (Codename: Big Rig)
   - **Trask Truck: (Versions: 14.10 - ?)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_HighTower.Valet_BigRig_Vehicle_HighTower_C
+  - **Mudflap OP-Max (Imagined Order): (Versions: 18.00 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_IO.Valet_BigRig_Vehicle_IO_C
   - **Mudflap (Rusted): (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_Rusted.Valet_BigRig_Vehicle_Rusted_C
   - **Mudflap OP-Max: (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_Upgrade.Valet_BigRig_Vehicle_Upgrade_C
   - **Mudflap: (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle.Valet_BigRig_Vehicle_C
+  - **Mudflap: (Versions: 19.10 - Latest)** cheat summon /Valet/BigRig/PROTO/Valet_BigRig_SilkwalkerProto.Valet_BigRig_SilkwalkerProto_C
 
 _Plugin: Nevada_
   - Saucer (Codename: Nevada)
