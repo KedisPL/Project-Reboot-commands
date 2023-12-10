@@ -49,8 +49,9 @@ _Plugin: Hoagie:_
 
 _Plugin: Valet:_
 - Prevalent (Codename: Basic Car)
-  - **Prevalent GG2020: (Versions: 14.10 - 14.60)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_HighTower_CEO.Valet_BasicCar_Vehicle_HighTower_CEO_C
-  - **Prevalent GG2020: (Versions: 14.10 - 14.60)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_HighTower.Valet_BasicCar_Vehicle_HighTower_C
+  - **Prevalent GG2020: (Versions: 14.10 - ?)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_HighTower_CEO.Valet_BasicCar_Vehicle_HighTower_CEO_C
+  - **Prevalent GG2020: (Versions: 14.10 - ?)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_HighTower.Valet_BasicCar_Vehicle_HighTower_C
+  - **Prevalent (Rusted): (Versions: ? - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_Rusted.Valet_BasicCar_Vehicle_Rusted_C
   - **Prevalent GG2020: (Versions: 13.40 - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_Upgrade.Valet_BasicCar_Vehicle_Upgrade_C
   - **Prevalent: (Versions: 13.40 - Latest)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle.Valet_BasicCar_Vehicle_C
 
@@ -58,16 +59,19 @@ _Plugin: Valet:_
   - **Taxi: (Versions: 13.40 - Latest)** cheat summon /Valet/TaxiCab/Valet_TaxiCab_Vehicle.Valet_TaxiCab_Vehicle_C
  
 - Whiplash (Codename: Sports Car)
-  - **Mark 51: (Versions: 14.10 - 14.60)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_HighTower.Valet_SportsCar_Vehicle_HighTower_C
+  - **Mark 51: (Versions: 14.10 - ?)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_HighTower.Valet_SportsCar_Vehicle_HighTower_C
+  - **Whiplash (Rusted): (Versions: ? - Latest)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_Rusted.Valet_SportsCar_Vehicle_Rusted_C
   - **Whiplash Super Circut: (Versions: 14.00 - Latest)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_Turbo.Valet_SportsCar_Vehicle_Turbo_C
   - **Whiplash VR-1: (Versions: 13.40 - Latest)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_Upgrade.Valet_SportsCar_Vehicle_Upgrade_C
   - **Whiplash: (Versions: 13.40 - Latest)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle.Valet_SportsCar_Vehicle_C
  
 - Bear (Codename: Basic Truck)
+  - **Bear (Rusted): (Versions: ? - Latest)** cheat summon /Valet/BasicTruck/Valet_BasicTruck_Vehicle_Rusted.Valet_BasicTruck_Vehicle_Rusted_C
   - **Bear 4x4: (Versions: 13.40 - Latest)** cheat summon /Valet/BasicTruck/Valet_BasicTruck_Vehicle_Upgrade.Valet_BasicTruck_Vehicle_Upgrade_C
   - **Bear: (Versions: 13.40 - Latest)** cheat summon /Valet/BasicTruck/Valet_BasicTruck_Vehicle.Valet_BasicTruck_Vehicle_C
  
 - Mudflap (Codename: Big Rig)
-  - **Trask Truck: (Versions: 14.10 - 14.60)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_HighTower.Valet_BigRig_Vehicle_HighTower_C
+  - **Trask Truck: (Versions: 14.10 - ?)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_HighTower.Valet_BigRig_Vehicle_HighTower_C
+  - **Mudflap (Rusted): (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_Rusted.Valet_BigRig_Vehicle_Rusted_C
   - **Mudflap OP-Max: (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_Upgrade.Valet_BigRig_Vehicle_Upgrade_C
   - **Mudflap: (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle.Valet_BigRig_Vehicle_C
