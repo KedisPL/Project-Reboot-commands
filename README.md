@@ -6,7 +6,7 @@ Valet vehicles (cars, etc.) are the most broken (they can kill you and behave st
 
 **1. Vehicles:**
 
-_Valet:_
+_Plugin: Valet:_
 - Prevalent (Codename: Basic Car)
   - **Prevalent GG2020: (Versions: ?)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_HighTower_CEO.Valet_BasicCar_Vehicle_HighTower_CEO_C
   - **Prevalent GG2020: (Versions: ?)** cheat summon /Valet/BasicCar/Valet_BasicCar_Vehicle_HighTower.Valet_BasicCar_Vehicle_HighTower_C
@@ -27,3 +27,6 @@ _Valet:_
   - **Whiplash Super Circut: (Versions: 14.00 - Latest)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_Turbo.Valet_SportsCar_Vehicle_Turbo_C
   - **Whiplash VR-1: (Versions: 13.40 - Latest)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle_Upgrade.Valet_SportsCar_Vehicle_Upgrade_C
   - **Whiplash: (Versions: 13.40 - Latest)** cheat summon /Valet/SportsCar/Valet_SportsCar_Vehicle.Valet_SportsCar_Vehicle_C
+ 
+- Taxi (Codename: Taxi Cab)
+  - **Taxi: (Versions: 13.40 - Latest)** cheat summon /Valet/TaxiCab/Valet_TaxiCab_Vehicle.Valet_TaxiCab_Vehicle_C
