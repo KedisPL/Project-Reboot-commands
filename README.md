@@ -45,7 +45,7 @@ _Folder: DriveableVehicles:_
 
 _Plugin: Hoagie:_
 - Prevalent (Codename: Hoagie)
-  - **Choppa: (Versions: 12.00 - Latest)** cheat summon /Hoagie/HoagieVehicle.HoagieVehicle_C
+  - **Choppa: (Versions: 12.20 - Latest)** cheat summon /Hoagie/HoagieVehicle.HoagieVehicle_C
 
 _Plugin: Valet:_
 - Prevalent (Codename: Basic Car)
