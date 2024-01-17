@@ -78,7 +78,7 @@ _Plugin: Valet:_
   - **Mudflap (Rusted): (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_Rusted.Valet_BigRig_Vehicle_Rusted_C
   - **Mudflap OP-Max: (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle_Upgrade.Valet_BigRig_Vehicle_Upgrade_C
   - **Mudflap: (Versions: 13.40 - Latest)** cheat summon /Valet/BigRig/Valet_BigRig_Vehicle.Valet_BigRig_Vehicle_C
-  - **Mudflap: (Versions: 19.10 - Latest)** cheat summon /Valet/BigRig/PROTO/Valet_BigRig_SilkwalkerProto.Valet_BigRig_SilkwalkerProto_C
+  - **Holiday Big Rig: (Versions: 19.10 - Latest)** cheat summon /Valet/BigRig/PROTO/Valet_BigRig_SilkwalkerProto.Valet_BigRig_SilkwalkerProto_C
 
 _Plugin: Nevada_
   - Saucer (Codename: Nevada)
